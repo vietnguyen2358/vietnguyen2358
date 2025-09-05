@@ -1,4 +1,4 @@
-### Viet Nguyen
+# Viet Nguyen
 
 💻 Full Stack Developer
 <br/>
