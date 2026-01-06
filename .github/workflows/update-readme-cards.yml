@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=vietnguyen2358&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,jupyter%20notebook
+          options: username=vietnguyen2358&layout=compact&langs_count=6&theme=tokyonight&hide=jupyter%20notebook
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

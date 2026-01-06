@@ -12,7 +12,6 @@
 ![Most Used Languages](./profile/top-langs.svg)
 
 ---
-<!-- Testing -->
 
 ### 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,go,react,nextjs,express,fastapi,aws,docker,postgres,mongodb)](https://skillicons.dev)
