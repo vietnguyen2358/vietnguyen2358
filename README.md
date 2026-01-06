@@ -9,7 +9,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vietnguyen2358&layout=compact&theme=tokyonight)
+![Most Used Languages](./profile/top-langs.svg)
 
 ---
 
